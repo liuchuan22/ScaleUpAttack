@@ -28,7 +28,7 @@ You can set the target image, ensemble size, attack algorithm, result saving pat
 
 **eval_defense.py**: Record the attack success rate over a list of defense methods.
 
-**eval_vllms/eval_vllms.py**: Evaluate the attack success rate over popular VLLMs.
+**eval_vllms/eval_vllms.py**: Evaluate the attack success rate over popular VLLMs. If you would like to evaluate VLLM performance under [Multitrust](https://arxiv.org/abs/2406.07057) framework with our adversarial examples, please replace our crafted adversarial examples with data in its `robustness/r5-adversarial-target` section. We provide configs in `data/config` folder.
 
 ## Citation
 Please cite us:
