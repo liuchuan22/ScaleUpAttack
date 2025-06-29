@@ -1,0 +1,100 @@
+{"image_id": 0, "image_name": "0.png", "untarget": ["panda"], "target": ["parrot"]}
+{"image_id": 1, "image_name": "1.png", "untarget": ["boat or ship"], "target": ["parrot"]}
+{"image_id": 2, "image_name": "2.png", "untarget": ["butterfly"], "target": ["parrot"]}
+{"image_id": 3, "image_name": "3.png", "untarget": ["bird"], "target": ["parrot"]}
+{"image_id": 4, "image_name": "4.png", "untarget": ["parrot"], "target": ["parrot"]}
+{"image_id": 5, "image_name": "5.png", "untarget": ["ball player"], "target": ["parrot"]}
+{"image_id": 6, "image_name": "6.png", "untarget": ["ostrich"], "target": ["parrot"]}
+{"image_id": 7, "image_name": "7.png", "untarget": ["cannon"], "target": ["parrot"]}
+{"image_id": 8, "image_name": "8.png", "untarget": ["insect or beetle"], "target": ["parrot"]}
+{"image_id": 9, "image_name": "9.png", "untarget": ["coffee or espresso"], "target": ["parrot"]}
+{"image_id": 10, "image_name": "10.png", "untarget": ["person"], "target": ["parrot"]}
+{"image_id": 11, "image_name": "11.png", "untarget": ["flower"], "target": ["parrot"]}
+{"image_id": 12, "image_name": "12.png", "untarget": ["piano"], "target": ["parrot"]}
+{"image_id": 13, "image_name": "13.png", "untarget": ["geyser"], "target": ["parrot"]}
+{"image_id": 14, "image_name": "14.png", "untarget": ["library or hall"], "target": ["parrot"]}
+{"image_id": 15, "image_name": "15.png", "untarget": ["jay or bird"], "target": ["parrot"]}
+{"image_id": 16, "image_name": "16.png", "untarget": ["church"], "target": ["parrot"]}
+{"image_id": 17, "image_name": "17.png", "untarget": ["coffee or espresso"], "target": ["parrot"]}
+{"image_id": 18, "image_name": "18.png", "untarget": ["barn"], "target": ["parrot"]}
+{"image_id": 19, "image_name": "19.png", "untarget": ["military uniform"], "target": ["parrot"]}
+{"image_id": 20, "image_name": "20.png", "untarget": ["buckle"], "target": ["parrot"]}
+{"image_id": 21, "image_name": "21.png", "untarget": ["bowl"], "target": ["parrot"]}
+{"image_id": 22, "image_name": "22.png", "untarget": ["jellyfish"], "target": ["parrot"]}
+{"image_id": 23, "image_name": "23.png", "untarget": ["person"], "target": ["parrot"]}
+{"image_id": 24, "image_name": "24.png", "untarget": ["dog"], "target": ["parrot"]}
+{"image_id": 25, "image_name": "25.png", "untarget": ["thatch or thatch roof"], "target": ["parrot"]}
+{"image_id": 26, "image_name": "26.png", "untarget": ["cliff or rock climbing"], "target": ["parrot"]}
+{"image_id": 27, "image_name": "27.png", "untarget": ["bench"], "target": ["parrot"]}
+{"image_id": 28, "image_name": "28.png", "untarget": ["jellyfish"], "target": ["parrot"]}
+{"image_id": 29, "image_name": "29.png", "untarget": ["pizza"], "target": ["parrot"]}
+{"image_id": 30, "image_name": "30.png", "untarget": ["gazelle or sheep"], "target": ["parrot"]}
+{"image_id": 31, "image_name": "31.png", "untarget": ["smartphone"], "target": ["parrot"]}
+{"image_id": 32, "image_name": "32.png", "untarget": ["camera"], "target": ["parrot"]}
+{"image_id": 33, "image_name": "33.png", "untarget": ["groom or bride"], "target": ["parrot"]}
+{"image_id": 34, "image_name": "34.png", "untarget": ["castle"], "target": ["parrot"]}
+{"image_id": 35, "image_name": "35.png", "untarget": ["pole or mast"], "target": ["parrot"]}
+{"image_id": 36, "image_name": "36.png", "untarget": ["football player"], "target": ["parrot"]}
+{"image_id": 37, "image_name": "37.png", "untarget": ["castle"], "target": ["parrot"]}
+{"image_id": 38, "image_name": "38.png", "untarget": ["football player"], "target": ["parrot"]}
+{"image_id": 39, "image_name": "39.png", "untarget": ["car"], "target": ["parrot"]}
+{"image_id": 40, "image_name": "40.png", "untarget": ["bridge"], "target": ["parrot"]}
+{"image_id": 41, "image_name": "41.png", "untarget": ["insect or beetle"], "target": ["parrot"]}
+{"image_id": 42, "image_name": "42.png", "untarget": ["castle"], "target": ["parrot"]}
+{"image_id": 43, "image_name": "43.png", "untarget": ["cliff or rock"], "target": ["parrot"]}
+{"image_id": 44, "image_name": "44.png", "untarget": ["shoe"], "target": ["parrot"]}
+{"image_id": 45, "image_name": "45.png", "untarget": ["mask"], "target": ["parrot"]}
+{"image_id": 46, "image_name": "46.png", "untarget": ["butterfly"], "target": ["parrot"]}
+{"image_id": 47, "image_name": "47.png", "untarget": ["web"], "target": ["parrot"]}
+{"image_id": 48, "image_name": "48.png", "untarget": ["dough"], "target": ["parrot"]}
+{"image_id": 49, "image_name": "49.png", "untarget": ["dome or ceiling"], "target": ["parrot"]}
+{"image_id": 50, "image_name": "50.png", "untarget": ["snail"], "target": ["parrot"]}
+{"image_id": 51, "image_name": "51.png", "untarget": ["subway or train station"], "target": ["parrot"]}
+{"image_id": 52, "image_name": "52.png", "untarget": ["bridge"], "target": ["parrot"]}
+{"image_id": 53, "image_name": "53.png", "untarget": ["gorilla"], "target": ["parrot"]}
+{"image_id": 54, "image_name": "54.png", "untarget": ["restaurant"], "target": ["parrot"]}
+{"image_id": 55, "image_name": "55.png", "untarget": ["racket"], "target": ["parrot"]}
+{"image_id": 56, "image_name": "56.png", "untarget": ["camera"], "target": ["parrot"]}
+{"image_id": 57, "image_name": "57.png", "untarget": ["military personnel or building"], "target": ["parrot"]}
+{"image_id": 58, "image_name": "58.png", "untarget": ["wallet or notecase"], "target": ["parrot"]}
+{"image_id": 59, "image_name": "59.png", "untarget": ["crocodile or alligator"], "target": ["parrot"]}
+{"image_id": 60, "image_name": "60.png", "untarget": ["eagle"], "target": ["parrot"]}
+{"image_id": 61, "image_name": "61.png", "untarget": ["stone wall or sculpture"], "target": ["parrot"]}
+{"image_id": 62, "image_name": "62.png", "untarget": ["person"], "target": ["parrot"]}
+{"image_id": 63, "image_name": "63.png", "untarget": ["memorial tablets or plaques"], "target": ["parrot"]}
+{"image_id": 64, "image_name": "64.png", "untarget": ["candle"], "target": ["parrot"]}
+{"image_id": 65, "image_name": "65.png", "untarget": ["bird or duck"], "target": ["parrot"]}
+{"image_id": 66, "image_name": "66.png", "untarget": ["boat or ship or yacht"], "target": ["parrot"]}
+{"image_id": 67, "image_name": "67.png", "untarget": ["grocery store"], "target": ["parrot"]}
+{"image_id": 68, "image_name": "68.png", "untarget": ["greenhouse"], "target": ["parrot"]}
+{"image_id": 69, "image_name": "69.png", "untarget": ["hanging light fixtures or lamps"], "target": ["parrot"]}
+{"image_id": 70, "image_name": "70.png", "untarget": ["trombone"], "target": ["parrot"]}
+{"image_id": 71, "image_name": "71.png", "untarget": ["car"], "target": ["parrot"]}
+{"image_id": 72, "image_name": "72.png", "untarget": ["stairs"], "target": ["parrot"]}
+{"image_id": 73, "image_name": "73.png", "untarget": ["person"], "target": ["parrot"]}
+{"image_id": 74, "image_name": "74.png", "untarget": ["graffiti or natural vegetation"], "target": ["parrot"]}
+{"image_id": 75, "image_name": "75.png", "untarget": ["parachute"], "target": ["parrot"]}
+{"image_id": 76, "image_name": "76.png", "untarget": ["menu"], "target": ["parrot"]}
+{"image_id": 77, "image_name": "77.png", "untarget": ["car"], "target": ["parrot"]}
+{"image_id": 78, "image_name": "78.png", "untarget": ["bird"], "target": ["parrot"]}
+{"image_id": 79, "image_name": "79.png", "untarget": ["seashore or beach"], "target": ["parrot"]}
+{"image_id": 80, "image_name": "80.png", "untarget": ["bird"], "target": ["parrot"]}
+{"image_id": 81, "image_name": "81.png", "untarget": ["raccoon or dog"], "target": ["parrot"]}
+{"image_id": 82, "image_name": "82.png", "untarget": ["train"], "target": ["parrot"]}
+{"image_id": 83, "image_name": "83.png", "untarget": ["truck"], "target": ["parrot"]}
+{"image_id": 84, "image_name": "84.png", "untarget": ["food"], "target": ["parrot"]}
+{"image_id": 85, "image_name": "85.png", "untarget": ["buckeye or horse chestnut or conker"], "target": ["parrot"]}
+{"image_id": 86, "image_name": "86.png", "untarget": ["building or tile roof"], "target": ["parrot"]}
+{"image_id": 87, "image_name": "87.png", "untarget": ["crane"], "target": ["parrot"]}
+{"image_id": 88, "image_name": "88.png", "untarget": ["boat or speedboat"], "target": ["parrot"]}
+{"image_id": 89, "image_name": "89.png", "untarget": ["refrigerator"], "target": ["parrot"]}
+{"image_id": 90, "image_name": "90.png", "untarget": ["knife"], "target": ["parrot"]}
+{"image_id": 91, "image_name": "91.png", "untarget": ["flower"], "target": ["parrot"]}
+{"image_id": 92, "image_name": "92.png", "untarget": ["government or political building"], "target": ["parrot"]}
+{"image_id": 93, "image_name": "93.png", "untarget": ["cheese or bread"], "target": ["parrot"]}
+{"image_id": 94, "image_name": "94.png", "untarget": ["jack-o'-lantern or halloween"], "target": ["parrot"]}
+{"image_id": 95, "image_name": "95.png", "untarget": ["coat"], "target": ["parrot"]}
+{"image_id": 96, "image_name": "96.png", "untarget": ["car or Jeep"], "target": ["parrot"]}
+{"image_id": 97, "image_name": "97.png", "untarget": ["washer or washing machine"], "target": ["parrot"]}
+{"image_id": 98, "image_name": "98.png", "untarget": ["food"], "target": ["parrot"]}
+{"image_id": 99, "image_name": "99.png", "untarget": ["fettuccine noodles or pasta"], "target": ["parrot"]}
